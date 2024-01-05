@@ -23,7 +23,11 @@ We prioritize the security of your data. Our systems are designed to protect aga
 
 Rest assured, we only request the necessary permissions from Facebook to facilitate the login process. We do not post on your behalf or access additional information without your explicit consent.
 
-By logging in with Facebook, you agree to our Terms of Service and Privacy Policy. If you have any questions or concerns, please contact us at [xyz@gmail.com](mailto:xyz@gmail.com).
+## Data Deletion 
+
+If you want to delete your user datas, write to xyz@example.com.
+
+By logging in with Facebook, you agree to our Terms of Service and Privacy Policy. If you have any questions or concerns, please contact us at [xyz@example.com](mailto:xyz@example.com).
 
 Thank you for choosing XYZ!
 
